@@ -313,6 +313,42 @@ GROUP BY SESSION(rowtime, INTERVAL ‘12’ HOUR),
 | CURRENT_DATE                   | 返回 UTC 时区中的当前 SQL 日期                               |
 | DATE_FORMAT(timestamp, string) | 返回使用指定格式字符串格式化时间戳的字符串                   |
 
+# [Flink 1.9 实战：使用 SQL 读取 Kafka 并写入 MySQL](https://mp.weixin.qq.com/s/gFOrLmMJ3lZ5HPX-HWPICg)
+
+## **SqlSubmit 的实现**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
